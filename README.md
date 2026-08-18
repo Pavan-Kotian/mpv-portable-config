@@ -4,6 +4,15 @@ A portable, NVIDIA-focused **MPV configuration** designed for high-quality video
 
 The configuration is optimized for modern NVIDIA GeForce GPUs and is intended for users who want a **high-quality media playback experience without installing or modifying system-wide MPV configuration files**.
 
+🙏 Credits
+
+This project is inspired by and builds upon ideas and configuration work from Zabooby's MPV configuration:
+
+Credit and appreciation to Zabooby for the original MPV configuration work and quality-focused approach that helped inspire this project.
+
+My repository is focused specifically on creating a portable NVIDIA GPU configuration, with an emphasis on NVIDIA hardware decoding, GPU rendering, HDR, high quality color management, and high-quality video playback.
+
+Please check the original project as well if you're interested in MPV configuration and video-quality optimization.
 ---
 
 ## ✨ Features
